@@ -1,0 +1,8 @@
+ΕΝΑΡΞΗ
+
+ & "C:\Program Files\nodejs\npm.cmd" run dev
+
+
+Sync αρχειο ερωτήσεων
+
+.\import-questions.cmd
